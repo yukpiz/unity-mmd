@@ -10,3 +10,8 @@ shoot.userprefs
 *.swp
 .vs/
 .vscode/
+
+# Not included in the project, these are by the license.
+
+Assets/Plugins/BulletXNA/
+Assets/Plugins/MMD4Mecanim/
