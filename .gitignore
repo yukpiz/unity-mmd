@@ -12,8 +12,8 @@ shoot.userprefs
 .vscode/
 
 # Not included in the project, these are by the license.
-Assets/BulletXNA/
-Assets/MMD4Mecanim/
-Assets/つみ式ミクさんv1.1/
-Assets/Tda式初音ミク・アペンドVer1.00/
-Assets/WAVEFILE_fullver/
+Assets/Plugins/BulletXNA/
+Assets/Plugins/MMD4Mecanim/
+Assets/Models/つみ式ミクさんv1.1/
+Assets/Models/Tda式初音ミク・アペンドVer1.00/
+Assets/Motions/WAVEFILE_fullver/
